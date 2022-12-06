@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1670266911 source:c:\users\joaod\desktop\arquipelogo\listaadj.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaAdj.h"
+
+1670269543 c:\users\joaod\desktop\arquipelogo\listaadj.h
+
+1670297039 source:c:\users\joaod\desktop\arquipelogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaAdj.h"
+	"PilhaEstatica.h"
+	"FilaEstatica.h"
+
+1670129642 c:\users\joaod\desktop\arquipelogo\pilhaestatica.h
+
+1670275047 source:c:\users\joaod\desktop\arquipelogo\filaestatica.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstatica.h"
+
+1670129641 c:\users\joaod\desktop\arquipelogo\filaestatica.h
+
+1670161467 source:c:\users\joaod\desktop\arquipelogo\pilhaestatica.c
+	<stdio.h>
+	"PilhaEstatica.h"
+
